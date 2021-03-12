@@ -1,0 +1,6 @@
+{
+    "servername" : "localhost:3306",
+    "user" : "root",
+    "password" : 1234,
+    "database" : "app_help_desk"
+}
